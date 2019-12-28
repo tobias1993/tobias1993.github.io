@@ -7,9 +7,9 @@ mathematics I have a solid foundation in mathematics, applied mathematics, mathe
 programming. Currently, my interests lie within mathematics, causal inference, data science, philosophy and
 AI.
 
-## lskdfj 
+## Publications
 
-assdf
+[OSG paper](https://arxiv.org/abs/1708.03871)
 
 ## My CV
 

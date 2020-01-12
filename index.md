@@ -8,15 +8,27 @@ Currently, my interests lie within causal inference, data science and philosophy
 ## Publications
 
 I stayed for one semester at the Australian National University where I wrote my 
-bachelor thesis in game theory. 
-I was supervised by [Marcus Hutter](http://www.hutter1.net/) and [Tom Everitt](https://www.tomeveritt.se/).
+bachelor thesis. I was supervised by [Marcus Hutter](http://www.hutter1.net/) and [Tom Everitt](https://www.tomeveritt.se/).
 
+My bachelor thesis is related to game theory. We investigate different ways of classifying games and
+develop a novel approach for the classification of symmetric 2x2 games.
 
-* [here](http://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1106499&dswid=-199) 
-which
+* [Classification by Decomposition: A Partitioning of the Space of 2X2 Symmetric Games](http://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1106499&dswid=-199) 
 
-[article](./article.pdf)
-[OSG paper](https://arxiv.org/abs/1708.03871)
+An article version of the thesis is currently under review. 
+
+* Draft: [Classification by Decomposition
+A novel approach to classification of symmetric 2 × 2 games](./article.pdf)
+
+During my stay I also co-authored the following article related to a corrigibility 
+problem in Artifical Intelligence safety research. 
+We propose a game theoretic approach to analysing the off-switch game dynamic. 
+
+* [A Game-Theoretic Analysis of the Off-Switch Game](https://arxiv.org/abs/1708.03871)
+
+I also a talk at the [PT-AI conference](https://www.pt-ai.org/2017) presenting the article above,
+here are the [slides](./PTAI-talk.pdf).
+
 
 ## CV
 

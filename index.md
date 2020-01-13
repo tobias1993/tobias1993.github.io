@@ -26,7 +26,7 @@ We propose a game theoretic approach to analysing the off-switch game dynamic.
 
 * [A Game-Theoretic Analysis of the Off-Switch Game](https://arxiv.org/abs/1708.03871)
 
-I also a talk at the [PT-AI conference](https://www.pt-ai.org/2017) presenting the article above,
+I also gave a talk at the [PT-AI conference](https://www.pt-ai.org/2017) presenting the article above,
 here are the [slides](./PTAI-talk.pdf).
 
 
